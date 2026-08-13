@@ -67,8 +67,8 @@ A web application with a Google Apps Script backend and a Blogger-themed fronten
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=DheekeyCarey&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DheekeyCarey&layout=compact&theme=tokyonight" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=xcarey&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xcarey&layout=compact&theme=tokyonight" />
 </p>
 
 <p align="center">
