@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm DheekeyCarey</h1>
+<h1 align="center">Hi 👋, I'm DheekeyCarey a.k.a Jacky</h1>
 <h3 align="center">Part-time Developer | Building useful things across web, desktop & mobile</h3>
 
 <p align="center">
